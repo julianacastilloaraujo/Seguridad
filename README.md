@@ -15,3 +15,6 @@
 * bitwarden (gratuito, opensource, muy seguro)
 * 1Password
 * LastPass
+
+# How Secure Is My Password
+* [howsecureismypassword.net](https://howsecureismypassword.net/)
