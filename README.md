@@ -18,3 +18,6 @@
 
 # How Secure Is My Password
 * [howsecureismypassword.net](https://howsecureismypassword.net/)
+
+# VPN
+* [¿Qué es una red privada virtual o VPN?](https://azure.microsoft.com/es-es/resources/cloud-computing-dictionary/what-is-vpn)
