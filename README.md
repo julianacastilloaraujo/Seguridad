@@ -2,6 +2,7 @@
 * La seguridad de la información es importante en cualquier empresa ⭐️
   * https://ublockorigin.com/
   * https://bitwarden.com/
+  * https://authy.com/
 
 # Riesgos para la seguridad de la red
 Uno de los riesgos más grandes asociados al software pirata es la posibilidad de robo de identidad. Esto puede incluir tu nombre, dirección, información financiera y más.
